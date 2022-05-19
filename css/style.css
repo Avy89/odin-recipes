@@ -1,0 +1,29 @@
+body {
+    color: goldenrod;
+    background-color: maroon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text: bold;
+}
+h1 {
+    color: plum;
+}
+.main {
+    background-color: gray;
+    width: 300px;
+    height: auto;
+    border: 10px solid plum;
+
+}
+.sides {
+    background-color: gray;
+    width: 300px;
+    height: auto;
+    border: 10px solid plum;
+}
+.desserts {
+    background-color: gray;
+    width: 300px;
+    height: auto;
+    border: 10px solid plum;
+}
